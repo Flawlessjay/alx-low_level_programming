@@ -4,7 +4,7 @@
 /**
  * main - main funct
  * @argc: param count
- * @argv: param pointer
+ * @argv: param poiter
  * Return: int
  */
 int main(int argc, char *argv[])
